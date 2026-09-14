@@ -34,7 +34,7 @@
 
 <strong><i>Como clonar o projeto:</i></strong>
 
-<p> git clone https://github.com/AlanFaraj83/Website-comidas-brasileiras.git</p>
+<p> git clone https://github.com/AlanFaraj1983/Projeto-Website-comidas-brasieliras.git</p>
 
 <br>
 
